@@ -1,4 +1,5 @@
 'use strict';
+
 eventsApp.factory('eventData', function () {
     return {
         event: {
